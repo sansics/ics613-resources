@@ -17,7 +17,6 @@ Tools, templates, and resources for [SANS ICS613: ICS/OT Penetration Testing & A
 | [Offensive Methodologies and References](docs/offensive-methodologies.md) | Pentester guides, ICS/OT attack frameworks, LOLBAS, GTFOBins, and Active Directory attack research |
 | [Tools](docs/tools.md) | Tools used or referenced in class, organized by function |
 | [Technologies Experienced in Class](docs/technologies.md) | ICS/OT architectures, protocols, and systems encountered in labs and the capstone |
-| [Author and Instructor Repositories](docs/author-repositories.md) | GitHub repositories maintained by ICS613 authors and SANS ICS instructors |
 | [Reading and Podcast List](docs/reading-and-podcasts.md) | Books, podcasts, blogs, and community resources for continuing ICS/OT security education |
 
 ## Documents and Templates
