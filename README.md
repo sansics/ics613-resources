@@ -1,58 +1,40 @@
-# ics613-resources
-ICS pentest and assessment tools and resources referenced or used in SANS ICS613.
+# ICS613 Resources
 
-![613 Challenge Coin](attachments/image.png)
+Tools, templates, and resources for [SANS ICS613: ICS/OT Penetration Testing & Assessments](https://www.sans.org/cyber-security-courses/ics-ot-penetration-testing-assessments).
 
-# Resources
+[![613 Challenge Coin](attachments/image.png)](attachments/image.png)
 
-- [SANS ICS](https://www.sans.org/cybersecurity-focus-areas/industrial-control-systems-security)
-    - [SANS ICS Community](https://ics-community.sans.org/)
-    - [SANS ICS613: ICS/OT Penetration Testing and Assessments](https://www.sans.org/cyber-security-courses/ics-ot-penetration-testing-assessments)
-    - [The Five ICS Cybersecurity Critical Controls](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls)
-    - [The Industrial Control System Cyber Kill Chain](https://www.sans.org/white-papers/36297)
-    - [ICS Acronyms Guide Cheat Sheet](https://www.sans.org/posters/ics-acronyms-guide)
-    - [Industrial Protocols Cheat Sheet](https://www.sans.org/posters/industrial-protocols-cheat-sheet)
-    - [Modbus RTU/TCP Cheat Sheet](https://www.sans.org/posters/modbus-rtu-tcp)
-    - [OT Disaster Recovery Quick Start Guide](https://www.sans.org/posters/ot-disaster-recovery-quick-start-guide)
-- [MITRE](https://www.mitre.org/)
-    - [ATT&CK - Enterprise](https://attack.mitre.org/)
-    - [ATT&CK - ICS](https://attack.mitre.org/matrices/ics/)
-    - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
-    - [EMB3D(tm) Threat Model](https://emb3d.mitre.org/)
-    - [Crown Jewel Analysis](https://www.mitre.org/sites/default/files/2023-01/PR-22-2824-Crown-Jewels-for-Industrial-Control-Systems.pdf)
-- [Dragos](https://www.dragos.com/)
-    - [Crown Jewel Analysis](https://www.dragos.com/blog/how-to-identify-cyber-critical-systems-with-a-crown-jewel-analysis)
-- Pentester Guides and References
-    - [LOLBAS](https://lolbas-project.github.io/)
-    - [GTFOBins](https://gtfobins.org/)
-    - [HackTricks](https://hacktricks.wiki/en/index.html)
-    - [NESCOR Guide to Penetration Testing for Electric Utilities](https://smartgrid.epri.com/doc/nescorguidetopenetrationtestingforelectricutilities-v3-final.pdf)
-    - [Advanced Metering Infrastructure Attack Methodology](https://www.scribd.com/document/74534090/AMI-Attack-Methodology)
+---
 
+## Quick Links
 
-# Documents
+| Page | Description |
+|------|-------------|
+| [About ICS613](docs/about-ics613.md) | Course overview, the 613LNG engagement scenario, and what students can expect |
+| [Course Authors](docs/authors.md) | Meet the ICS613 authors - bios, publications, and contact links |
+| [Pre-Requisites and Course Progression](docs/prerequisites-and-progression.md) | Recommended background, laptop requirements, and the suggested training path into ICS613 |
+| [SANS ICS Resources](docs/sans-ics-resources.md) | Links to SANS ICS program materials, white papers, posters, and cheat sheets |
+| [Offensive Methodologies and References](docs/offensive-methodologies.md) | Pentester guides, ICS/OT attack frameworks, LOLBAS, GTFOBins, and Active Directory attack research |
+| [Tools](docs/tools.md) | Tools used or referenced in class, organized by function |
+| [Technologies Experienced in Class](docs/technologies.md) | ICS/OT architectures, protocols, and systems encountered in labs and the capstone |
+| [Author and Instructor Repositories](docs/author-repositories.md) | GitHub repositories maintained by ICS613 authors and SANS ICS instructors |
+| [Reading and Podcast List](docs/reading-and-podcasts.md) | Books, podcasts, blogs, and community resources for continuing ICS/OT security education |
 
-- [Top-Down/Bottom-Up Methodology Outline](documents/top_down-bottom_up-methodology.md)
-- [Request for Information (RFI) Template](documents/request_for_information_template.md)
+## Documents and Templates
 
-# Tools - used or referenced in class
+Assessment planning documents and templates located in the [resources](resources/) directory.
 
-- Open Source
-    - [CLICK PLC Scanner](https://github.com/cutaway-security/click-plc-scanner) - script for scanning CLICK PLCs using Modbus, ENIP, and the Automation Direct proprietary software programming protocol
-    - [OT Crown Jewel Analysis for ICS/OT](https://github.com/cutaway-security/ot_crown_jewel_analysis) - comparison of bottom-up and top-down crown jewel analysis of OT environments
-    - [NetExec](https://github.com/Pennyw0rth/NetExec) - Windows analysis
-    - [Certify](https://github.com/GhostPack/Certify) - authentication analysis
-    - [Rubeus](https://github.com/ghostpack/rubeus) - authentication analysis
-    - [Obsidian](https://obsidian.md/) - note taking
-    - [Offensive Obsidian](https://github.com/zyenai/offensive_obsidian) - Quick script to configure Obsidian for pentest note taking
-    - [BloodHound](https://github.com/specterops/bloodhound) - Active Directory analysis
-    - [Invode-ADEnum](https://github.com/Leo4j/Invoke-ADEnum) - Active Directory analysis
-    - [Configuration Hardening Assessment PowerShell Script (CHAPS)](https://github.com/cutaway-security/chaps) - assess stand-alone Windows system configurations
-- Commercial
-    - [Kali](https://www.kali.org/)
-    - [Netrise](https://www.netrise.io/)
-    - [Ghidra](https://github.com/nationalsecurityagency/ghidra)
-    - [Ping Castle](https://www.pingcastle.com/)
-    - [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)
-    - [NP-View](https://www.network-perception.com/product)
-    - [NIPPER](https://www.titania.com/nipper-infrasight)
+| Document | Description |
+|----------|-------------|
+| [Top-Down/Bottom-Up Methodology Outline](resources/top_down-bottom_up-methodology.md) | Structured methodology aligned to the ICS Cyber Kill Chain |
+| [Request for Information (RFI) Template](resources/request_for_information_template.md) | Pre-engagement data collection template for asset owners |
+
+---
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome. Please open an issue or submit a pull request.
