@@ -8,7 +8,7 @@ Physical security protections are trusted in most process environments to preven
 
 This checklist supports periodic review of physical security mechanisms at an operational site. It is referenced in [SANS ICS613: ICS/OT Penetration Testing & Assessments](https://www.sans.org/cyber-security-courses/ics-ot-penetration-testing-assessments) as part of the bottom-up assessment methodology, where consultants evaluate the physical protections that the cybersecurity program depends on. Many of the technical findings identified during an ICS/OT penetration test are only exploitable because an attacker can physically reach the device, cabinet, or network port. This checklist helps assessors and asset owners identify those gaps before an adversary does.
 
-An Obsidian template version of this checklist is available in the [config/templates](../config/templates/) directory for use during field walkthroughs with [Offensive Obsidian](https://github.com/zyenai/offensive_obsidian).
+An Obsidian template version of this checklist is available in the [Offensive Obsidian templates](./offensive_obsidian/config/templates/) directory for use during field walkthroughs with [Offensive Obsidian](https://github.com/zyenai/offensive_obsidian).
 
 ## Review Frequency
 

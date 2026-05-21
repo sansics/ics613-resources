@@ -30,6 +30,7 @@ Assessment planning documents and templates located in the [resources](resources
 | [Request for Information (RFI) Template](resources/request_for_information_template.md) | Pre-engagement data collection template for asset owners |
 | [Physical Site Analysis Checklist](resources/physical_site_analysis_checklist.md) | Periodic review checklist for physical security mechanisms at operational sites |
 | [Physical Site Analysis Template](resources/offensive_obsidian/config/templates/physical-site-analysis.md) | Obsidian field template for physical site walkthroughs with interactive checkboxes |
+| [RFI Artifact Tracker](resources/offensive_obsidian/config/templates/rfi-tracker.md) | Obsidian template for tracking RFI artifact status, storage location, review, and deletion across engagements |
 
 ---
 
