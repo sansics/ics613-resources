@@ -28,12 +28,14 @@ Assessment planning documents and templates located in the [resources](resources
 |----------|-------------|
 | [Top-Down/Bottom-Up Methodology Outline](resources/top_down-bottom_up-methodology.md) | Structured methodology aligned to the ICS Cyber Kill Chain |
 | [Request for Information (RFI) Template](resources/request_for_information_template.md) | Pre-engagement data collection template for asset owners |
+| [Physical Site Analysis Checklist](resources/physical_site_analysis_checklist.md) | Periodic review checklist for physical security mechanisms at operational sites |
+| [Physical Site Analysis Template](resources/offensive_obsidian/config/templates/physical-site-analysis.md) | Obsidian field template for physical site walkthroughs with interactive checkboxes |
 
 ---
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 

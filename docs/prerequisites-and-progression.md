@@ -16,9 +16,9 @@ ICS613 is an advanced course. Students should arrive with a working knowledge of
 
 ## Recommendations
 
-- **Second Monitor** - Strongly recommended. The course involves simultaneous reference to course material, lab instructions, and virtual machine environments. A second monitor significantly improves the lab experience.
-- **Note-Taking Tool** - A structured tool such as [Obsidian](https://obsidian.md/), CherryTree, or OneNote for organizing assessment findings during labs and the capstone. See [Offensive Obsidian](https://github.com/zyenai/offensive_obsidian) for a quick pentest note-taking configuration.
-- **Familiarity with Virtualization** - Course labs use virtual machines. Prior experience with VMware Workstation or VirtualBox will help.
+- **Second Monitor:** Strongly recommended. The course involves simultaneous reference to course material, lab instructions, and virtual machine environments. A second monitor significantly improves the lab experience.
+- **Note-Taking Tool:** A structured tool such as [Obsidian](https://obsidian.md/), CherryTree, or OneNote for organizing assessment findings during labs and the capstone. See [Offensive Obsidian](https://github.com/zyenai/offensive_obsidian) for a quick pentest note-taking configuration.
+- **Familiarity with Virtualization:** Course labs use virtual machines. Prior experience with VMware Workstation or VirtualBox will help.
 
 ## Laptop Requirements
 

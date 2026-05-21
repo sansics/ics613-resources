@@ -8,20 +8,20 @@
 
 ### ICS/OT Security
 
-- **Industrial Network Security** - Eric D. Knapp, Joel Thomas Langill
-- **Hacking Exposed: Industrial Control Systems** - Clint Bodungen, Bryan Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit
-- **Countering Cyber Sabotage** - Andrew Bochman, Sarah Freeman
+- **Industrial Network Security** by Eric D. Knapp, Joel Thomas Langill
+- **Hacking Exposed: Industrial Control Systems** by Clint Bodungen, Bryan Singer, Aaron Shbeeb, Stephen Hilt, Kyle Wilhoit
+- **Countering Cyber Sabotage** by Andrew Bochman, Sarah Freeman
 
 ### ICS Cyber Events and History
 
-- **Sandworm** - Andy Greenberg
-- **Countdown to Zero Day** - Kim Zetter
+- **Sandworm** by Andy Greenberg
+- **Countdown to Zero Day** by Kim Zetter
 
 ### Penetration Testing and Offensive Security
 
-- **Penetration Testing** - Georgia Weidman
-- **The Hacker Playbook 3** - Peter Kim
-- **The Art of Intrusion** - Kevin Mitnick
+- **Penetration Testing** by Georgia Weidman
+- **The Hacker Playbook 3** by Peter Kim
+- **The Art of Intrusion** by Kevin Mitnick
 
 ---
 

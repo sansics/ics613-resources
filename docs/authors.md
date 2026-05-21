@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md)
 
-ICS613 is authored and taught by practitioners who do this work professionally. Between them, they bring decades of experience across ICS/OT security consulting, penetration testing, control system engineering, and military service. They have assessed power grids, pipelines, water systems, manufacturing plants, and maritime operations - and they built this course to pass those methods on.
+ICS613 is authored and taught by practitioners who do this work professionally. Between them, they bring decades of experience across ICS/OT security consulting, penetration testing, control system engineering, and military service. They have assessed power grids, pipelines, water systems, manufacturing plants, and maritime operations, and they built this course to pass those methods on.
 
 ---
 
@@ -10,7 +10,7 @@ ICS613 is authored and taught by practitioners who do this work professionally. 
 
 **Principal Instructor, SANS Institute | Director, ICS Solutions | Founder, Northern Strong Security**
 
-Jason discovered his aptitude for pulling things apart and figuring out how they work at a young age - mechanical systems first, then hardware and software. That curiosity carried directly into a career in industrial control system security spanning over 20 years. He brings deep hands-on ICS/OT expertise and business knowledge to both his consulting practice at Northern Strong Security and his work as a SANS Principal Instructor and ICS613 co-author.
+Jason discovered his aptitude for pulling things apart and figuring out how they work at a young age, starting with mechanical systems before moving into hardware and software. That curiosity carried directly into a career in industrial control system security spanning over 20 years. He brings deep hands-on ICS/OT expertise and business knowledge to both his consulting practice at Northern Strong Security and his work as a SANS Principal Instructor and ICS613 co-author.
 
 Jason is also the author and instructor for ICS612: ICS Cybersecurity In-Depth, and has published research on IEC 62443 implementation, management of change in ICS environments, maritime cybersecurity, and operational resilience in OT.
 
@@ -56,7 +56,7 @@ Tyler writes about OT pentesting methods and operational insights on his Substac
 
 **Principal Instructor, SANS Institute | Principal Consultant and Founder, Cutaway Security, LLC | USMC Veteran**
 
-Don is a cybersecurity leader who has spent his career helping defenders safely prove security where it matters most - in industrial operations. As a SANS Principal Instructor, founder of Cutaway Security, and ICS613 co-author, he brings years of field work into the creation of step-by-step methods that empower teams protecting critical infrastructure. Don also teaches ICS410: ICS/SCADA Security Essentials and is a veteran of the United States Marine Corps.
+Don is a cybersecurity leader who has spent his career helping defenders safely prove security where it matters most, in industrial operations. As a SANS Principal Instructor, founder of Cutaway Security, and ICS613 co-author, he brings years of field work into the creation of step-by-step methods that empower teams protecting critical infrastructure. Don also teaches ICS410: ICS/SCADA Security Essentials and is a veteran of the United States Marine Corps.
 
 Don has published extensively on OT security tooling and methodology, and maintains a significant collection of open-source tools for ICS/OT assessment, Windows hardening, and industrial network analysis through the Cutaway Security GitHub organization.
 
