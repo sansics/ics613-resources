@@ -16,7 +16,9 @@ ICS pentest and assessment tools and resources referenced or used in SANS ICS613
 - [Request for Information (RFI) Template](documents/request_for_information_template.md)
 
 # Other Resources
+
 ## [SANS ICS](https://www.sans.org/cybersecurity-focus-areas/industrial-control-systems-security)
+
 - [SANS ICS Community](https://ics-community.sans.org/)
 - [SANS ICS613: ICS/OT Penetration Testing and Assessments](https://www.sans.org/cyber-security-courses/ics-ot-penetration-testing-assessments)
 - [The Five ICS Cybersecurity Critical Controls](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls)
@@ -32,11 +34,11 @@ ICS pentest and assessment tools and resources referenced or used in SANS ICS613
 - [Crown Jewel Analysis](https://www.mitre.org/sites/default/files/2023-01/PR-22-2824-Crown-Jewels-for-Industrial-Control-Systems.pdf)
 
 ## [Dragos](https://www.dragos.com/)
-    - [Crown Jewel Analysis](https://www.dragos.com/blog/how-to-identify-cyber-critical-systems-with-a-crown-jewel-analysis)
+- [Crown Jewel Analysis](https://www.dragos.com/blog/how-to-identify-cyber-critical-systems-with-a-crown-jewel-analysis)
 
 ## Pentest Guides and References
-    - [LOLBAS](https://lolbas-project.github.io/)
-    - [GTFOBins](https://gtfobins.org/)
-    - [HackTricks](https://hacktricks.wiki/en/index.html)
-    - [NESCOR Guide to Penetration Testing for Electric Utilities](https://smartgrid.epri.com/doc/nescorguidetopenetrationtestingforelectricutilities-v3-final.pdf)
-    - [Advanced Metering Infrastructure Attack Methodology](https://www.scribd.com/document/74534090/AMI-Attack-Methodology)
+- [LOLBAS](https://lolbas-project.github.io/)
+- [GTFOBins](https://gtfobins.org/)
+- [HackTricks](https://hacktricks.wiki/en/index.html)
+- [NESCOR Guide to Penetration Testing for Electric Utilities](https://smartgrid.epri.com/doc/nescorguidetopenetrationtestingforelectricutilities-v3-final.pdf)
+- [Advanced Metering Infrastructure Attack Methodology](https://www.scribd.com/document/74534090/AMI-Attack-Methodology)
